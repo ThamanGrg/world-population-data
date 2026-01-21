@@ -24,19 +24,6 @@ The project expects a JSON file named:
 
 [country-by-population.json](https://github.com/samayo/country-json/blob/master/src/country-by-population.json)
 
-### Sample Format
-    ```bash
-    [
-    {
-        "country": "Nepal",
-        "population": 30547580
-    },
-    {
-        "country": "India",
-        "population": 1428627663
-    }
-    ]
-
 # How to Run the Project
 1. Install Dependencies
     ```bash
