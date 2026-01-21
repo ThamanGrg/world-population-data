@@ -1,4 +1,5 @@
 .venv
 __pycache__/
-.git-version
+*.pyc
+.python-version
 pyproject.toml
