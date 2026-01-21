@@ -25,6 +25,7 @@ The project expects a JSON file named:
 country-by-population.json
 
 Sample Format
+```bash
 [
   {
     "country": "Nepal",
