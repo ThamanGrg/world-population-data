@@ -22,7 +22,7 @@ Countries are grouped by continent, and population values are displayed using co
 
 The project expects a JSON file named:
 
-country-by-population.json
+[country-by-population.json](https://github.com/samayo/country-json/blob/master/src/country-by-population.json)
 
 Sample Format
 ```bash

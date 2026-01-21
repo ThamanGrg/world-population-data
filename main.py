@@ -26,6 +26,9 @@ with open(file) as jsonF:
 for dict_data in data:
     country_name = dict_data["country"]
     population = int(dict_data["population"])
+    if population < 0:
+        continue
+
     country_code = get_country_code(country_name)
     if not country_code:
         continue
