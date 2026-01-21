@@ -1,0 +1,3 @@
+.venv
+.git-version
+pyproject.toml
